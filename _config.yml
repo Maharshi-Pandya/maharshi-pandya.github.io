@@ -1,5 +1,20 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/pages-themes/primer"
+  
 title: maharshi's 🏡
 description: dancing with 0s and 1s
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-midnight

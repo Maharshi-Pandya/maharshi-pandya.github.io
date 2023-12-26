@@ -2,13 +2,6 @@
 layout: default
 ---
 
-take a seat, here's your chai ☕️
+here, take a seat
 
-relax
-
-```c
-
-while (true) {
-  learn();
-}
-```
+and relax...
