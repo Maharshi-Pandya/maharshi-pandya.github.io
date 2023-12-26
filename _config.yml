@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: maharshi's 🏡 
-description: busy in dancing with 0s and 1s
+title: maharshi's 🏡
+description: dancing with 0s and 1s
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
