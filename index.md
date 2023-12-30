@@ -14,6 +14,11 @@ i am passionate about machine learning, artificial intelligence, programming con
 
 if you just happened to stumble upon here, feel free to start by going through my digital footprint on the internet!
 
+<br>
+
+[![my blogs](https://github-readme-stats.vercel.app/api/pin/?username=Maharshi-Pandya&repo=blogs)](https://maharshi-pandya.github.io/blogs/)
+
+
 ### profiles
 
 - [Kaggle](https://www.kaggle.com/maharshipandya)
